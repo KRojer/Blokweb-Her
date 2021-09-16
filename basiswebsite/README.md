@@ -22,7 +22,7 @@ Keath Rojer
 blauw
 
 #### Je focus:
-responsive?
+responsive
 
 </details>
 
@@ -36,15 +36,15 @@ responsive?
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-https://www.coconutinn.com/index.html of https://www.surfline.com/
+ufc.com of vox.com
 
 #### Screenshot(s) van de eerste pagina (small screen):
 hier de naam van de pagina
-<img src="images/hm-pagina" width="375px" alt="Home pagina screenshot">
+<img src="images/Hm-ufc" width="375px" alt="Home pagina screenshot">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 hier de naam van de pagina
-<img src="images/news-pagina" width="375px" alt="News pagina screenshot">
+<img src="images/events-ufc" width="375px" alt="Events pagina screenshot">
 
 </details>
 
