@@ -36,7 +36,7 @@ responsive
 <summary>uitwerken voor kick-off werkgroep</summary>
 
 ### Je opdracht:
-ufc.com of vox.com
+ufc.com
 
 #### Screenshot(s) van de eerste pagina (small screen):
 hier de naam van de pagina
@@ -69,40 +69,15 @@ hier de naam van de pagina
 </details>
 
 
-
-
-
 ## Voortgang 1 (week 2)
 
 <details>
-<summary>uitwerken voor 1e voortgang</summary>
+<summary>Ik denk dat ik ga kiezen voor ufc.com, omdat ik het sport heel leuk vindt. De enige knelpunt is dat de website bijna dagelijks geupdate wordt.</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
-
-### Agenda voor meeting
-samen met je groepje opstellen
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
-
-
-### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
-
-- punt 1
-- punt 2
-- nog een punt
-- ...
+In het eerste week wist ik nog niet zeker wat voor soort website ik zou willen namaken, dus ik heb gekozen voor ufc.com want het lijkt me een toffe uitdaging te zijn.
 
 </details>
-
-
-
 
 
 ## Voortgang 2 (week 3)
@@ -111,69 +86,10 @@ hier na afloop snel de uitkomsten van de meeting vastleggen
 <summary>uitwerken voor 2e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Wat goed ging is dat ik het navigatie menu in elkaar kreeg, verder had ik niet zo veel tijd om echt verder mijn code uit te werken. (neem ook screenshots op van delen van je website en code)
 
-
-### Agenda voor meeting
-samen met je groepje opstellen
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
-
-
-### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
-
-- punt 1
-- punt 2
-- nog een punt
-- ...
 
 </details>
-
-
-
-
-
-## Toegankelijkheidstest (week 4)
-
-<details>
-<summary>uitwerken na test in 8e voortgang</summary>
-
-### Bevindingen
-Lijst met je bevindingen die in de test naar voren kwamen:
-
-#### Titel eerste bevinding
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel tweede bevinding.
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel volgende bevinding.
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-
-#### Titel nog een bevinding.
-Hier korte omschrijving (met indien nodig een afbeelding)
-
-Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbeelding)
-
-</details>
-
-
-
-
 
 ## Voortgang 3 (week 4)
 
@@ -181,30 +97,10 @@ Hier een omschrijving van hoe het opgelost kan worden (met indien nodig een afbe
 <summary>uitwerken voor 3e voortgang</summary>
 
 ### Stand van zaken
-hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Na de laatste voortganggesprek heb ik gehoord dat ik nog vee moet doen om de website af te krijgen, gelukkig heb ik wat extra tijd om aan mijn code te besteden. De website van ufc bestaat uit heel vee artikels, tussen die artikels is zijn video's of gifjes te zien en dit is een knelpunt voor mij. (neem ook screenshots op van delen van je website en code)
 
-
-### Agenda voor meeting
-samen met je groepje opstellen
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
-
-
-### Verslag van meeting
-hier na afloop snel de uitkomsten van de meeting vastleggen
-
-- punt 1
-- punt 2
-- nog een punt
-- ...
 
 </details>
-
-
 
 
 
@@ -233,8 +129,8 @@ hier screenshot(s) van je eindresultaat
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. bron 1
-2. bron 2
+1. ufc.com (inspect) Ik heb de svg voor de dropdown menu genomen om de huisstijl zo goed als mogelijk na te doen.
+2. Ik heb de font: DIN 2014 gedownload om een gelijksoortige font te hebben als die van de ufc.
 3. ...
 
 </details>
