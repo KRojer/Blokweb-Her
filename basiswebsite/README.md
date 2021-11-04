@@ -131,6 +131,6 @@ Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
 1. ufc.com (inspect) Ik heb de svg voor de dropdown menu genomen om de huisstijl zo goed als mogelijk na te doen.
 2. Ik heb de font: DIN 2014 gedownload om een gelijksoortige font te hebben als die van de ufc.
-3. ...
+3. https://codepen.io/KeathR/pen/jOLNxYO?editors=1100 - codepen ban Sanne gebruikt om mijn menu schaalbaar te maken.
 
 </details>
